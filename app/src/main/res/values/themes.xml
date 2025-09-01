@@ -1,10 +1,11 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Base.Theme.LAB_WEEK_02"
+    <!-- Base theme aplikasi -->
+    <style name="Base.Theme.Lab_Week_02_B"
         parent="Theme.Material3.DayNight.NoActionBar">
         ...
     </style>
-    <style name="Theme.LAB_WEEK_02" parent="Base.Theme.LAB_WEEK_02" />
+    <style name="Theme.Lab_Week_02_B" parent="Base.Theme.Lab_Week_02_B" />
     <!-- Your custom styles -->
     <style name="text_input"
         parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
